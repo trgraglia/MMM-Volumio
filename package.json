@@ -1,0 +1,26 @@
+{
+  "name": "MMM-Volumio",
+  "version": "0.1.0",
+  "description": "Volumio for MagicMirror",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trgraglia/MMM-Volumio"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "music",
+    "module",
+    "volumio"
+  ],
+  "author": "Anthony Graglia",
+  "contributors": "https://github.com/trgraglia/MMM-Volumio/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trgraglia/MMM-Volumio/issues"
+  },
+  "homepage": "https://github.com/trgraglia/MMM-Volumio#readme",
+  "dependencies": {
+    "socket.io-client": "^1.7.3"
+  }
+}
